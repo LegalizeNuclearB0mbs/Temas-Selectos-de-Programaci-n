@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 148680890}
   - component: {fileID: 148680889}
   - component: {fileID: 148680884}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: TriSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -376,7 +376,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 907292808}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 955127916}
   - component: {fileID: 955127917}
   - component: {fileID: 955127919}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: Icosahedron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -540,7 +540,7 @@ GameObject:
   - component: {fileID: 959308589}
   - component: {fileID: 959308594}
   - component: {fileID: 959308595}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -768,7 +768,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1199920617}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: Treasure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -876,7 +876,7 @@ GameObject:
   - component: {fileID: 1490385955}
   - component: {fileID: 1490385954}
   - component: {fileID: 1490385949}
-  m_Layer: 3
+  m_Layer: 8
   m_Name: QuadSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1238,7 +1238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 661098511419707059, guid: 87a98c5bdacf1224c8d8ab92e806c3f2, type: 3}
       propertyPath: m_Layer
-      value: 3
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
